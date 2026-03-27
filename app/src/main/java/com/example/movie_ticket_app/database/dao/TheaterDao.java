@@ -1,10 +1,10 @@
-package com.example.mini_project2.database.dao;
+package com.example.movie_ticket_app.database.dao;
 
 import androidx.room.Dao;
 import androidx.room.Insert;
 import androidx.room.Query;
 
-import com.example.mini_project2.database.entity.Theater;
+import com.example.movie_ticket_app.database.entity.Theater;
 
 import java.util.List;
 

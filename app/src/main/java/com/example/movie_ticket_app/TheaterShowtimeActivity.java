@@ -1,4 +1,4 @@
-package com.example.mini_project2;
+package com.example.movie_ticket_app;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -11,8 +11,8 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.example.mini_project2.database.MovieDatabase;
-import com.example.mini_project2.database.entity.ShowtimeWithDetails;
+import com.example.movie_ticket_app.database.MovieDatabase;
+import com.example.movie_ticket_app.database.entity.ShowtimeWithDetails;
 
 import java.util.List;
 import java.util.concurrent.Executors;

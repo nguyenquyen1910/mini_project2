@@ -1,4 +1,4 @@
-package com.example.mini_project2.database.entity;
+package com.example.movie_ticket_app.database.entity;
 
 import androidx.room.Entity;
 import androidx.room.PrimaryKey;
