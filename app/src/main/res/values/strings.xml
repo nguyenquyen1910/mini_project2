@@ -1,3 +1,8 @@
 <resources>
+<<<<<<< HEAD
     <string name="app_name">movie_ticket_app</string>
 </resources>
+=======
+    <string name="app_name">Movie Ticket</string>
+</resources>
+>>>>>>> c1bdf99 (add ticker anh navigation)

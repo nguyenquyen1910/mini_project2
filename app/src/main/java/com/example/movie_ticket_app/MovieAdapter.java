@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 package com.example.mini_project2;
+=======
+package com.example.movie_ticket_app;
+>>>>>>> c1bdf99 (add ticker anh navigation)
 
 import android.view.LayoutInflater;
 import android.view.View;
@@ -9,7 +13,11 @@ import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
+<<<<<<< HEAD
 import com.example.mini_project2.database.entity.Movie;
+=======
+import com.example.movie_ticket_app.database.entity.Movie;
+>>>>>>> c1bdf99 (add ticker anh navigation)
 
 import java.util.List;
 

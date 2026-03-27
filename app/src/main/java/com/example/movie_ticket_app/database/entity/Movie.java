@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 package com.example.mini_project2.database.entity;
+=======
+package com.example.movie_ticket_app.database.entity;
+>>>>>>> c1bdf99 (add ticker anh navigation)
 
 import androidx.room.Entity;
 import androidx.room.PrimaryKey;
@@ -21,6 +25,7 @@ public class Movie {
         this.genre = genre;
     }
 
+<<<<<<< HEAD
     public int getMovieId() { return movieId; }
     public void setMovieId(int movieId) { this.movieId = movieId; }
     public String getTitle() { return title; }
@@ -33,4 +38,53 @@ public class Movie {
     public void setImageName(String imageName) { this.imageName = imageName; }
     public String getGenre() { return genre; }
     public void setGenre(String genre) { this.genre = genre; }
+=======
+    public int getMovieId() {
+        return movieId;
+    }
+
+    public void setMovieId(int movieId) {
+        this.movieId = movieId;
+    }
+
+    public String getTitle() {
+        return title;
+    }
+
+    public void setTitle(String title) {
+        this.title = title;
+    }
+
+    public String getDescription() {
+        return description;
+    }
+
+    public void setDescription(String description) {
+        this.description = description;
+    }
+
+    public int getDuration() {
+        return duration;
+    }
+
+    public void setDuration(int duration) {
+        this.duration = duration;
+    }
+
+    public String getImageName() {
+        return imageName;
+    }
+
+    public void setImageName(String imageName) {
+        this.imageName = imageName;
+    }
+
+    public String getGenre() {
+        return genre;
+    }
+
+    public void setGenre(String genre) {
+        this.genre = genre;
+    }
+>>>>>>> c1bdf99 (add ticker anh navigation)
 }

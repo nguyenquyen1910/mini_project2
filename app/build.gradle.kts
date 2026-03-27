@@ -8,9 +8,16 @@ android {
         version = release(36)
     }
 
+<<<<<<< HEAD
     defaultConfig {
         applicationId = "com.example.movie_ticket_app"
         minSdk = 36
+=======
+
+    defaultConfig {
+        applicationId = "com.example.movie_ticket_app"
+        minSdk = 24
+>>>>>>> c1bdf99 (add ticker anh navigation)
         targetSdk = 36
         versionCode = 1
         versionName = "1.0"

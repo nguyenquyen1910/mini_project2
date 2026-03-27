@@ -1,8 +1,12 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
+<<<<<<< HEAD
     <!-- Base application theme. -->
     <style name="Base.Theme.Movie_ticket_app" parent="Theme.MaterialComponents.DayNight.NoActionBar">
         <!-- Customize your light theme here. -->
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+=======
+    <style name="Base.Theme.movie_ticket_app" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+>>>>>>> c1bdf99 (add ticker anh navigation)
         <item name="colorPrimary">@color/primary</item>
         <item name="colorPrimaryDark">@color/primary_dark</item>
         <item name="colorAccent">@color/primary</item>
@@ -11,5 +15,9 @@
         <item name="android:windowLightStatusBar">true</item>
     </style>
 
+<<<<<<< HEAD
     <style name="Theme.Movie_ticket_app" parent="Base.Theme.Movie_ticket_app" />
+=======
+    <style name="Theme.movie_ticket_app" parent="Base.Theme.movie_ticket_app" />
+>>>>>>> c1bdf99 (add ticker anh navigation)
 </resources>
