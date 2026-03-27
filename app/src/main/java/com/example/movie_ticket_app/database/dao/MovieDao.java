@@ -1,10 +1,18 @@
+<<<<<<< HEAD
 package com.example.mini_project2.database.dao;
+=======
+package com.example.movie_ticket_app.database.dao;
+>>>>>>> c1bdf99 (add ticker anh navigation)
 
 import androidx.room.Dao;
 import androidx.room.Insert;
 import androidx.room.Query;
 
+<<<<<<< HEAD
 import com.example.mini_project2.database.entity.Movie;
+=======
+import com.example.movie_ticket_app.database.entity.Movie;
+>>>>>>> c1bdf99 (add ticker anh navigation)
 
 import java.util.List;
 

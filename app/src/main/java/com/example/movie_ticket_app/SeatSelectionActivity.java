@@ -61,7 +61,7 @@ public class SeatSelectionActivity extends AppCompatActivity {
                         " " + showtimeDetails.showtime.getShowTime());
 
                 // Tao grid ghe 5x6
-                String[] rows = {"A", "B", "C", "D", "E"};
+                String[] rows = { "A", "B", "C", "D", "E" };
                 for (String row : rows) {
                     for (int col = 1; col <= 6; col++) {
                         String seatCode = row + col;

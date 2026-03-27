@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 package com.example.mini_project2;
+=======
+package com.example.movie_ticket_app;
+>>>>>>> c1bdf99 (add ticker anh navigation)
 
 import android.view.LayoutInflater;
 import android.view.View;

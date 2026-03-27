@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 package com.example.mini_project2;
+=======
+package com.example.movie_ticket_app;
+>>>>>>> c1bdf99 (add ticker anh navigation)
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -15,8 +19,13 @@ import androidx.recyclerview.widget.GridLayoutManager;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
+<<<<<<< HEAD
 import com.example.mini_project2.database.MovieDatabase;
 import com.example.mini_project2.database.entity.Movie;
+=======
+import com.example.movie_ticket_app.database.MovieDatabase;
+import com.example.movie_ticket_app.database.entity.Movie;
+>>>>>>> c1bdf99 (add ticker anh navigation)
 
 import java.util.ArrayList;
 import java.util.List;
