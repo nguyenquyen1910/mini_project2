@@ -2,4 +2,15 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="primary">#1976D2</color>
+    <color name="primary_dark">#1565C0</color>
+    <color name="primary_light">#BBDEFB</color>
+    <color name="background">#FFFFFF</color>
+    <color name="background_secondary">#F0F7FF</color>
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="divider">#E0E0E0</color>
+    <color name="image_placeholder">#E3F2FD</color>
+    <color name="taskbar_active">#1976D2</color>
+    <color name="taskbar_inactive">#9E9E9E</color>
 </resources>
